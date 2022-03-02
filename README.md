@@ -38,13 +38,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-    -Reinforcing CSS grid
-    -Sizing images on a card
-    -Spacing elements on a card
+ -Reinforcing CSS grid
+ -Sizing images on a card
+ -Spacing elements on a card
 
 ### Continued development
 
-    -Structure better objects to fit the screen without using margins or position property.
+ -Structure better objects to fit the screen without using margins or position property.
   
 
 ### Useful resources
