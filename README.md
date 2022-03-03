@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QRcodeCard](./screenshot.jpg)
+![QRcodeCard](https://user-images.githubusercontent.com/94415170/156472505-8b03b313-5b8c-4eb7-93d4-76759c0b68a8.png)
 
 ### Links
 
