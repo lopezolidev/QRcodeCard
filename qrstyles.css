@@ -1,5 +1,4 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+
 
 :root {
     --White: hsl(0, 0%, 100%);
@@ -26,7 +25,7 @@ main {
 }
 
 .card {
-    width: 25%;
+    width: 25vw;
     background-color: var(--White);
     border-radius: 16px;
 }
@@ -58,4 +57,14 @@ main {
 
 .wrapper .content p {
     color: var(--Grayishblue);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media (max-width: 400px) {
+    
+    .card {
+        width: 80vw;
+    }
 }
